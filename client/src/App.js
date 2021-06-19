@@ -1,5 +1,5 @@
-import logo from './logo.svg';
-import './App.css';
+import logo from './logo.svg';// eslint-disable-next-line
+import './App.css';// eslint-disable-next-line
 
 import React from "react";
 import {
